@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baby Names",
+    "section": "",
+    "text": "# A tibble: 690 × 3\n    year name  totalprop\n   &lt;dbl&gt; &lt;chr&gt;     &lt;dbl&gt;\n 1  1880 A      0.158   \n 2  1880 E      0.175   \n 3  1880 I      0.0334  \n 4  1880 O      0.0246  \n 5  1880 U      0.000610\n 6  1881 A      0.158   \n 7  1881 E      0.179   \n 8  1881 I      0.0337  \n 9  1881 O      0.0249  \n10  1881 U      0.000544\n# ℹ 680 more rows"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
